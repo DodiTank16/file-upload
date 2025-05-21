@@ -1,0 +1,28 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.btn_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.upload_button {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(115deg, aqua, darkviolet);
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    border: none;
+    border-radius: 7px;
+    padding: 7px 15px;
+}
+
+.cloud_icon {
+    margin-right: 9px;
+}
